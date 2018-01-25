@@ -1,0 +1,15 @@
+{
+  "name": "bigcitylife",
+  "version": "0.0.1",
+  "description": "simple 3D model of city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "city"
+  ],
+  "author": "jackfisher.dev",
+  "license": "ISC"
+}
